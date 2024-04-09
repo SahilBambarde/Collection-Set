@@ -1,0 +1,21 @@
+Comparable Interface
+
+Present in java.lang package
+
+Contains only one method
+
+public int compareTo(Object obj)
+
+Meant for Default Natural Sorting Order
+
+"R".compareTO("M") => +ve
+"K".compareTo("M") => -ve
+
+
+Obj1.compareTo(obj2)
+obj1<obj2 => -1
+obj1==obj2 => 0
+obj1>obj2 => +1
+
+
+

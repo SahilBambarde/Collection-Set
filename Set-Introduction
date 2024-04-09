@@ -1,0 +1,14 @@
+Duplicates are not allowed
+Insertion Order is not preserved
+Accepts Heterogeneous Objects
+No Indexing
+
+HashSet
+Underlying data structure of HashSet is HashTable
+Does not allow Duplicates
+Insertion Order is preserved
+Can add heterogeneous elements
+we can add null value
+Implements Serializable and CloneAble Interface
+
+

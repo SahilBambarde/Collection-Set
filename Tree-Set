@@ -1,0 +1,6 @@
+it has property of both SortedSet and Navigable Set
+
+Underlying implementation is balanced TRee
+
+null is not allowed in TreeSet
+

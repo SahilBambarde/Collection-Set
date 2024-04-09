@@ -1,0 +1,8 @@
+Navigable Set Interface
+
+sub interface of SortedSet
+
+Contains methods related to Navigable functionality
+
+Both SortedSet and NavigableSet have a same implementation class as TreeSet
+
